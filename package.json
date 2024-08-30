@@ -19,6 +19,7 @@
     "@tsconfig/node20": "^20.1.4",
     "@types/jquery": "^3.5.30",
     "@types/node": "^20.14.5",
+    "@types/sass": "^1.43.1",
     "@vitejs/plugin-vue": "^5.0.5",
     "@vue/tsconfig": "^0.5.1",
     "npm-run-all2": "^6.2.0",
