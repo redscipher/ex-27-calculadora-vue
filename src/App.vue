@@ -20,8 +20,6 @@
 
 <style scoped>
   /*  */
-  .container{
-    background-color: red;
-  }
+
   /*  */
 </style>
