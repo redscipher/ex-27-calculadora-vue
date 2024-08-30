@@ -1,8 +1,3 @@
-<script setup lang="ts">
-    // 
-    // 
-</script>
-
 <template>
     <!--  -->
     <header class="p-5 m-5 bg-dark rounded-3 text-center text-white">
@@ -14,8 +9,3 @@
     </header>
     <!--  -->
 </template>
-
-<style scoped lang="scss">
-    //
-    // 
-</style>

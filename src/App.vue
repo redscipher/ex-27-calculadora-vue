@@ -5,7 +5,7 @@
 
   // reatividade
   const reativos = reactive({
-    
+    tarefa: ''
   });
   // 
 </script>
@@ -18,8 +18,10 @@
   <!--  -->
 </template>
 
-<style scoped lang="scss">
+<style scoped>
   /*  */
-
+  .container{
+    background-color: red;
+  }
   /*  */
 </style>
