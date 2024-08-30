@@ -7,7 +7,7 @@ import 'bootstrap/dist/js/bootstrap.bundle'
 // css
 import './sass/index.scss';
 // ts
-import './ts/index.ts';
+import './ts/index';
 
 // cria instancia objeto
 createApp(App).mount('#app')
