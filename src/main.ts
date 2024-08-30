@@ -3,7 +3,7 @@ import { createApp } from 'vue'
 import App from './App.vue'
 // bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.bundle.min.js'
+import 'bootstrap/dist/js/bootstrap.bundle'
 // css
 import './sass/index.scss';
 // ts
