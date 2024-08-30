@@ -1,0 +1,7 @@
+// importacao
+@use './variaveis';
+
+// 
+body{
+    background-color: variaveis.$corFundo;
+}
