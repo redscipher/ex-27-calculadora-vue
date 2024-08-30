@@ -18,8 +18,10 @@
   <!--  -->
 </template>
 
-<style scoped>
+<style scoped lang="scss">
   /*  */
-
+  .container{
+    background-color: red;
+  }
   /*  */
 </style>
