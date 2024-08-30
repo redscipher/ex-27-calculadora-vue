@@ -15,7 +15,8 @@ export default defineConfig({
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
-      'vue$': 'vue/dist/'
+      'vue$': 'vue/dist/vue.esm-bundler.js',
+      '@tsconfig': '/vercel/path0/tsconfig.node.json',
     }
   }
 })
