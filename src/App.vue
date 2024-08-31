@@ -27,9 +27,12 @@
 </template>
 
 <style scoped lang="scss">
-  /*  */
+  // importacao
+  @use './sass/variaveis';
+
+  // elementos
   header{
-    // background-color: red;
+    background-color: lighten(variaveis.$corFundo, 20%);
   }
 
   main{
@@ -39,7 +42,7 @@
   }
 
   footer{
-    // background-color: green;
+    background-color: lighten(variaveis.$corFundo, 10%);
   }
   /*  */
 </style>

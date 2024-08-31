@@ -2,10 +2,14 @@
 @use './variaveis';
 @use './classes';
 
-// ids
-#app{
+// elementos
+body{
     // cor de fundo da pagina
     background-color: variaveis.$corFundo;
+}
+
+// ids
+#app{
     // retira as margens
     margin: 0;
     padding: 0;
