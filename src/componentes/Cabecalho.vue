@@ -1,23 +1,20 @@
-<script setup lang="ts">
-// 
-
-// 
-</script>
-
 <template>
     <!--  -->
-    <header class="p-5 m-5 bg-dark rounded-3 text-center text-white">
+    <div class="container py-3 text-center text-white">
         <div class="row">
-            <div class="col-12">
-                <h1>Calculadora aritmética</h1>
-                <i class="bi bi-calculator-fill"></i>
+            <!-- offset => define colunas vazias -->
+            <div class="col-6 offset-3">
+                <h1 class="titulo">Calculadora Aritmética <i class="bi bi-calculator-fill"></i></h1>
             </div>
         </div>
-    </header>
+    </div>
     <!--  -->
 </template>
 
 <style scoped lang="scss">
-// 
-
-// </style>
+    // 
+    h1{
+        border-bottom: 2px solid #eff2e5;
+    }
+    // 
+</style>
