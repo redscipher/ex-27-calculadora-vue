@@ -1,7 +1,7 @@
 <script setup lang="ts">
-    // 
+// 
 
-    // 
+// 
 </script>
 
 <template>
@@ -10,6 +10,7 @@
         <div class="row">
             <div class="col-12">
                 <h1>Calculadora aritmética</h1>
+                <i class="bi bi-calculator-fill"></i>
             </div>
         </div>
     </header>
@@ -17,7 +18,6 @@
 </template>
 
 <style scoped lang="scss">
-    // 
-    
-    // 
-</style>
+// 
+
+// </style>
